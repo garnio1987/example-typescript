@@ -21,5 +21,8 @@
       "text",
       "cobertura"
     ]
+  },
+  "publishConfig" : {
+    "registry" : "http://localhost:8081/nexus/content/repositories/npm-internal/"
   }
 }
